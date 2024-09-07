@@ -1,0 +1,55 @@
+body {
+  background-color: #f8f9fa; /* Light background for the body */
+  font-family: 'Roboto', sans-serif;
+}
+
+.calculator {
+  width: 350px;
+  background-color: #ffffff; /* White background for the calculator */
+  border-radius: 20px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+}
+
+.calc-title {
+  font-size: 1.5rem;
+  color: #03070b; /* Blue color for the title */
+}
+
+#display {
+  background-color: #343a40; /* Dark background for display */
+  color: #ffffff; /* White color for text */
+  font-size: 2rem;
+  min-height: 60px;
+  text-align: right;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.calculator-buttons button {
+  width: 72px;
+  height: 72px;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  margin: 4px;
+}
+
+button.btn-secondary {
+  background-color: #6c757d; /* Gray color for buttons */
+  color: #ffffff; /* White color for text */
+}
+
+button.btn-primary {
+  background-color: #007bff; /* Blue color for operators */
+  color: #ffffff; /* White color for text */
+}
+
+button.btn-success {
+  background-color: #28a745; /* Green color for reset button */
+  color: #ffffff; /* White color for text */
+}
+
+button.btn-danger {
+  background-color: #dc3545; /* Red color for equals button */
+  color: #ffffff; /* White color for text */
+}

@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Full viewport height */
+  background-color: #f8f9fa; /* Light background for the app */
+  margin: 0; /* Remove default margin */
 }
 
 .App-logo {
