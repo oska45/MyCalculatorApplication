@@ -47,16 +47,15 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-Code Splitting
+### Screenshots
 
-Screenshots
 Here are some screenshots of the application:
-
+![Calculator Screenshot](images/Calculator.png)
 Main Calculator Interface
+![Calculator Screenshot 2](images/Calculator2.png)
 
-Additional View of the Calculator
 
-Contributing
+### Contributing
 If you’d like to contribute to the project, please follow these steps:
 
 Fork the repository
